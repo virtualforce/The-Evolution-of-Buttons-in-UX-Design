@@ -18,14 +18,20 @@ We have come a long way since the early days of button design. One of the major 
 
 Material design comes in here, reintroducing some elements of layers, hierarchy and animation to provide the user with cues. These buttons are layered over the top of the interface. A further evolution is the floating action button (FAB) – which ‘float’ above the UI and draw attention to promoted or primary actions. FABs have drawn some criticisms for potentially impeding the user experience. They are an overlapping element and could potentially get in the way. Users may be becoming familiar with them as Google introduces them across Android and web interfaces, however, as always, use with caution and be sure to test your design decisions!
 Another button style that has become quite popular of late is the ‘ghost button’. This is a transparent button, with an outline a few pixels thick and button text matching the outline colour. These buttons are driven by aesthetics, as they are an elegant way to create a cohesive feeling. To ensure that the CTA is noticed, these buttons are often centered with lots of padding around them. The buttons also usually have very strong, inverse hover/mouse over states, to ensure the affordances are sufficient.
+
  <img src="button-5.png" style="width: 100%;" />
+ 
 Ghost buttons blend nicely with the background of the design. 
+
  <img src="button-6.png" style="width: 100%;" />
  <img src="button-7.png" style="width: 100%;" />
+ 
 Strong hover states for ghost buttons provide better affordances. Examples from hyperisland.com
 A final trend that is gaining traction is the oval button. This an alternative to traditional rectangular or rounded rectangular buttons, and adds visual interest. These are usually solid fill styled buttons, again supported by strong hover and tap states to ensure users can identify them as buttons.
+
  <img src="button-8.png" style="width: 100%;" />
  <img src="button-9.png" style="width: 100%;" />
+ 
 Oval buttons are becoming increasingly popular. Examples from bmo.com and exposure.co.
 Button best practices
 While trends and visual direction are important to be aware of, the button is primarily a functional element. It is crucial that users can identify them quickly and easily as buttons. Let’s explore some best practices to keep in mind when designing buttons.
