@@ -1,8 +1,8 @@
 #The Evolution of Buttons in UX Design
 Buttons are a crucial part of designing interfaces. Getting this element right will go a long way toward good UX and elegant design. At their most basic, buttons are specially styled links that we want to draw attention to. Buttons can link us to other pages, complete an action like submitting a form or making a purchase. They are often used for the primary calls to action (CTA) we want our users to complete.
-#A brief history of buttons in UX
+###A brief history of buttons in UX
 With the advent of graphical user interfaces (GUIs) came button elements. Let’s pick up in the early 90s, when we start to see what resemble buttons on web 1.0 sites and on interfaces such as Windows 3.11 and later Windows 95.
- 
+ <img src="button-1.png" style="width: 100%;" />
 Some examples of Web 1.0 button styles
 Buttons in the early days of the web were often GIF buttons or graphics. These buttons contained blinking graphics and textures. At this time, much web content was user generated and best practices in terms of usability and affordances had not developed.
 Operating system buttons relied on the appearance of relief and shadow to distinguish them from their surrounding context, as they were often the same color as the dialog box or interface element they were placed in.
