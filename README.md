@@ -50,6 +50,7 @@ Think about how the design communicates affordance. How do users understand the 
 Make sure you also consider the hover/tap states and active states of the button. Bear in mind that these states should provide enough contrast for people to clearly identify them as different from the default state.
 
 ###2. Pay attention to sizing
+
   <img src="button-11-700x467.png" style="width: 100%;" />
   
 Think carefully about touch target size and padding when designing.
