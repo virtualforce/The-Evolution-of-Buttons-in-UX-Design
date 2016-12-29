@@ -51,7 +51,7 @@ Make sure you also consider the hover/tap states and active states of the button
 
 ###2. Pay attention to sizing
 
-  <img src="button-11-700x467.png" style="width: 100%;" />
+  <img src="button-11-700x467.jpg" style="width: 100%;" />
   
 Think carefully about touch target size and padding when designing.
 The size of buttons also play a key role in helping users to identify these elements. With the rise of responsive web, thinking about how the button will resize and percentage widths of buttons has become more important. As web visits from mobile devices continues to rise, we need to ensure that the buttons we design are large enough for people to interact with. This means considering the size of button elements as well as the padding between clickable elements. Various platforms provide guidelines on minimum touch targets. Results of an MIT Touch Lab study found that averages for finger pads are between 10-14mm and fingertips are 8-10mm. The best way to test out your design is to look at them at scale on devices, and get users to interact with them. There is also a great Touch Target Template that can guide you.
