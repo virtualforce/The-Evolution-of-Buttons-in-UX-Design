@@ -7,13 +7,17 @@ With the advent of graphical user interfaces (GUIs) came button elements. Let’
 
 Buttons in the early days of the web were often GIF buttons or graphics. These buttons contained blinking graphics and textures. At this time, much web content was user generated and best practices in terms of usability and affordances had not developed.
 Operating system buttons relied on the appearance of relief and shadow to distinguish them from their surrounding context, as they were often the same color as the dialog box or interface element they were placed in.
+
  <img src="button-2.png" style="width: 100%;" />
  
 Early OS buttons were often the same color as the surrounding dialogue boxes. Image source.
 This type of skeuomorphic button which relied on looking raised and 3D to imply it was a clickable element spilled over into the web. There are still examples of the legacy of this type of button to be found online today, particularly when legacy backend systems are in play. Gradients, outlines and shadows are all examples of this.
+
  <img src="button-3.png" style="width: 100%;" />
+ 
 ###Modern button trends
 We have come a long way since the early days of button design. One of the major shifts that has happened in UI terms is the trend away from skeuomorphic elements towards more flat ones, stripped of 3D effects. Rather than relying on buttons looking raised and ‘buttony’, lots of modern web design aims for a clean, minimal aesthetic. The challenge here is keeping affordances – if everything is flat, how do users know which pieces are buttons?
+
  <img src="button-4.png" style="width: 100%;" />
 
 Material design comes in here, reintroducing some elements of layers, hierarchy and animation to provide the user with cues. These buttons are layered over the top of the interface. A further evolution is the floating action button (FAB) – which ‘float’ above the UI and draw attention to promoted or primary actions. FABs have drawn some criticisms for potentially impeding the user experience. They are an overlapping element and could potentially get in the way. Users may be becoming familiar with them as Google introduces them across Android and web interfaces, however, as always, use with caution and be sure to test your design decisions!
